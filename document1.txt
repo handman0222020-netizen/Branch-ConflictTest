@@ -1,3 +1,4 @@
+#Main : 뭐라뭐라
 def partition(l, r, nums):
 #Branch4 : No issues found in test result 
     pivot, ptr = nums[r], l
